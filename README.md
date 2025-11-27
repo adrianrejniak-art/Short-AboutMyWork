@@ -1,5 +1,5 @@
 # Portfolio BI – Adrian Rejniak
-[![Microsoft Excel](https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=sequelize&logoColor=%23FF2D55)
+![Microsoft Excel](https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=sequelize&logoColor=%23FF2D55)
 
 
 
