@@ -4,6 +4,7 @@
 [![Microsoft Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)]()
 [![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 
+https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=sequelize&logoColor=%23FF2D55
 
 
 
