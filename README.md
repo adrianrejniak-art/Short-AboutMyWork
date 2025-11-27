@@ -1,6 +1,8 @@
 # Portfolio BI – Adrian Rejniak
 [![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)]()
 [![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)]()
+[![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)](./PowerBI)
+
 
 
 W tym repozytorium prezentuję przykładowe raporty BI stworzone w Power BI na fikcyjnych danych.
