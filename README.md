@@ -15,13 +15,20 @@
    - Modelowanie danych i tworzenie miar w języku DAX.
    - Projektowanie dashboardów w Power BI – interaktywne raporty wspierające decyzje biznesowe.
    - Łączenie danych z różnych systemów w celu uzyskania pełnego obrazu działalności.
-     
+   
+W firmie uruchomiłem aplikacje z raportami PowerBI, przygotowując łacznie 7 raportów oraz niektóre mechanizmy oparte na synchrinizacji danych przez Bi. Poniżej kilka screenów.*
+Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego również powodu nie ma ciekawszych dashbordów. 
+ <p align="center">
+  <img src="Targety.png" width="200">
+  <img src="Województwa.png" width="185">
+  <img src="Benchmark.png" width="200">
+</p> 
+
 ![ETL](https://img.shields.io/badge/ETL%20PROCESS-%20%23FFA500?style=for-the-badge&logo=changedetection&logoColor=FFFFFF)
 ![PowerQuery](https://img.shields.io/badge/POWER%20QUERY-217346?style=for-the-badge&logo=soundcharts&logoColor=FFFFFF)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-%20%23F2C811?style=for-the-badge&logo=namesilo&logoColor=FFFFFF)
 ![MLanguage](https://img.shields.io/badge/M%20LANGUAGE-185C37?style=for-the-badge&logoColor=FFFFFF)
 ![DaxLanguage](https://img.shields.io/badge/DAX%20LANGUAGE-%232E64FF?style=for-the-badge&logoColor=FFFFFF)
-
      
 **3) Project Delivery & Solution Design**
    - Tworzenie nowych procesów i aplikacji wspierających innowacje i zwiększających konkurencyjność.
@@ -47,8 +54,11 @@
 Architektura/Laney: projektowanie procesów, optymalizacja wydajności, modele danych
 Za każdą liczbą stoją fakty – zarządzając strategicznymi bazami danych, tworzę analizy, które są skuteczne i celowe, odpowiadają na potrzeby zespołu zarządzającego. Łączę kompetencje techniczne z biznesowym spojrzeniem: projektuję procesy, rozwijam narzędzia i dostarczam rozwiązania, które realnie wpływają na wyniki firmy. 
 
-sprawdzam czy pojawi sie 
-
+<p align="center">
+  <img src="Targety.png" width="200">
+  <img src="Województwa.png" width="185">
+  <img src="Benchmark.png" width="200">
+</p>
 
 <!--
 Tu masz opcje do wyświetlania w MD: 
