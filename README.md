@@ -4,7 +4,7 @@
    - Realizacja projektów rozwojowych – wprowadzanie zmian, przebudowa struktur i procesów w systemie.
    - Rozszerzona analityka biznesowa – dostosowanie CRM do potrzeb raportowania i analizy danych w perspektywie strategicznej.
 
-![screen](2123.png)
+![screen](Projekt wideo_22.mp4)
 
 ![MicrosoftSQL](https://img.shields.io/badge/MICROSOFT%20SQL-%23CC2927?style=for-the-badge)
 ![SalesForce](https://img.shields.io/badge/SALESFORCE-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=FFFFFF)
