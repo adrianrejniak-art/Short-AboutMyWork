@@ -1,6 +1,3 @@
-#Aleksandra! Pisza o tobie w internecie spójrz! 
-
-![FB](https://www.facebook.com/kasprzak.ola)
 # Krótko o mojej pracu
 
 **1) Zarządzanie i rozwój systemu CRM**
