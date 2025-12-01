@@ -54,12 +54,6 @@ Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego ró
 Architektura/Laney: projektowanie procesów, optymalizacja wydajności, modele danych
 Za każdą liczbą stoją fakty – zarządzając strategicznymi bazami danych, tworzę analizy, które są skuteczne i celowe, odpowiadają na potrzeby zespołu zarządzającego. Łączę kompetencje techniczne z biznesowym spojrzeniem: projektuję procesy, rozwijam narzędzia i dostarczam rozwiązania, które realnie wpływają na wyniki firmy. 
 
-<p align="center">
-  <img src="Targety.png" width="200">
-  <img src="Województwa.png" width="185">
-  <img src="Benchmark.png" width="200">
-</p>
-
 <!--
 Tu masz opcje do wyświetlania w MD: 
 [![Obejrzyj](Przyszłosc)](https://youtu.be/14O6Ok4gwEs)-->
