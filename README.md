@@ -1,4 +1,4 @@
-# Krótka opowieść o Mnie
+# Krótko o mojej pracu
 
 **1) Zarządzanie i rozwój systemu CRM**
    - Administrowanie i konfiguracja platformy CRM  w celu zapewnienia jej stabilności i bezpieczeństwa.
