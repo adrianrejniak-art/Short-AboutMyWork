@@ -1,10 +1,12 @@
 # Krótko o mojej pracu
 
-**1) Zarządzanie i rozwój systemu CRM**
+**1) Zarządzanie i rozwój systemu CRM**j
    - Administrowanie i konfiguracja platformy CRM  w celu zapewnienia jej stabilności i bezpieczeństwa.
    - Realizacja projektów rozwojowych – wprowadzanie zmian, przebudowa struktur i procesów w systemie.
    - Rozszerzona analityka biznesowa – dostosowanie CRM do potrzeb raportowania i analizy danych w perspektywie strategicznej.
 
+
+![ETL](https://img.shields.io/badge/ETL%20PROCESS-%20%23FFA500?style=for-the-badge&logo=changedetection&logoColor=FFFFFF)
 ![MicrosoftSQL](https://img.shields.io/badge/MICROSOFT%20SQL-%23CC2927?style=for-the-badge)
 ![SalesForce](https://img.shields.io/badge/SALESFORCE-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=FFFFFF)
 ![DataBricks](https://img.shields.io/badge/DataBricks-%23FF3621?style=for-the-badge&logo=databricks&logoColor=FFFFFF)
@@ -17,16 +19,17 @@
    - Łączenie danych z różnych systemów w celu uzyskania pełnego obrazu działalności.
    
 W firmie uruchomiłem aplikacje z raportami PowerBI, przygotowując łacznie 7 raportów oraz niektóre mechanizmy oparte na synchrinizacji danych przez Bi. Poniżej kilka screenów.*
-Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego również powodu nie ma ciekawszych dashbordów. 
  <p align="center">
   <img src="Targety.png" width="200">
   <img src="Województwa.png" width="185">
   <img src="Benchmark.png" width="200">
 </p> 
+<small>*Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego również powodu nie ma ciekawszych dashbordów. 
+</small>
 
 ![ETL](https://img.shields.io/badge/ETL%20PROCESS-%20%23FFA500?style=for-the-badge&logo=changedetection&logoColor=FFFFFF)
-![PowerQuery](https://img.shields.io/badge/POWER%20QUERY-217346?style=for-the-badge&logo=soundcharts&logoColor=FFFFFF)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-%20%23F2C811?style=for-the-badge&logo=namesilo&logoColor=FFFFFF)
+![PowerQuery](https://img.shields.io/badge/POWER%20QUERY-217346?style=for-the-badge&logo=soundcharts&logoColor=FFFFFF)
 ![MLanguage](https://img.shields.io/badge/M%20LANGUAGE-185C37?style=for-the-badge&logoColor=FFFFFF)
 ![DaxLanguage](https://img.shields.io/badge/DAX%20LANGUAGE-%232E64FF?style=for-the-badge&logoColor=FFFFFF)
      
@@ -42,7 +45,7 @@ Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego ró
 </a>
 </p>
 
-<small>Film zrealizowany przez firmę w której pracowałem dot. jednego z rozwiązań. Link przenosi do poratu YouTube* <br>
+<small>Film zrealizowany przez firmę prezentujący jednego z rozwiązań. Link przenosi do poratu YouTube* <br>
 *Część danych została ukryta
 </small>
 
@@ -50,6 +53,7 @@ Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego ró
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=googlesheets&logoColor=%23FFFFFF)
 ![Mobile](https://img.shields.io/badge/MOBILE%20APP-%2325D366?style=for-the-badge&logoColor=FFFFFF)
 ![Solution](https://img.shields.io/badge/SYSTEM%20ARCHITECTURE-%20%23575757?style=for-the-badge&logoColor=FFFFFF)
+![MLanguage](https://img.shields.io/badge/M%20LANGUAGE-185C37?style=for-the-badge&logoColor=FFFFFF)
 
 Architektura/Laney: projektowanie procesów, optymalizacja wydajności, modele danych
 Za każdą liczbą stoją fakty – zarządzając strategicznymi bazami danych, tworzę analizy, które są skuteczne i celowe, odpowiadają na potrzeby zespołu zarządzającego. Łączę kompetencje techniczne z biznesowym spojrzeniem: projektuję procesy, rozwijam narzędzia i dostarczam rozwiązania, które realnie wpływają na wyniki firmy. 
