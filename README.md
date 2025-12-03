@@ -36,7 +36,7 @@ Kończąc studia na SGH w kierunku zarządzanie cyberbezpieczeństwem broniłem 
 Uruchomiłem aplikacje z raportami PowerBI, przygotowując łacznie 7 raportów oraz niektóre mechanizmy oparte na synchronizacji danych przez BI. Była to duża zmiana technologiczna raportowania danych w Polskim oddziale. Poniżej kilka screenów.*
  <p align="center">
   <img src="Targety.png" width="200">
-  <img src="Województwa.png" width="190">
+  <img src="Województwa.png" width="200">
   <img src="Benchmark.png" width="200">
 </p> 
 <small>*Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego również powodu nie ma ciekawszych dashboardów. 
