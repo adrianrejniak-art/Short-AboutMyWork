@@ -1,11 +1,24 @@
-# Krótko o mojej pracu
+# Krótko o mojej pracy
 
-Architektura/Laney: projektowanie procesów, optymalizacja wydajności, modele danych
-Za każdą liczbą stoją fakty – zarządzając strategicznymi bazami danych, tworzę analizy, które są skuteczne i celowe, odpowiadają na potrzeby zespołu zarządzającego. Łączę kompetencje techniczne z biznesowym spojrzeniem: projektuję procesy, rozwijam narzędzia i dostarczam rozwiązania, które realnie wpływają na wyniki firmy. 
+Łączę kompetencje analityczne, projektowe i technologiczne, tworząc end-to-end rozwiązania wspierające strategiczne decyzje biznesowe.
 
-# **1) Zarządzanie i rozwój systemu CRM**j
-   - Administrowanie i konfiguracja platformy CRM  w celu zapewnienia jej stabilności i bezpieczeństwa.
-   - Realizacja projektów rozwojowych – wprowadzanie zmian, przebudowa struktur i procesów w systemie.
+**Specjalizuję się w:** <br>
+CRM (Salesforce, Dynamics) – bezpieczeństwo, automatyzacja procesów, integracje <br>
+Business Intelligence – modelowanie danych, ETL, raportowanie w Power BI” <br>
+Solution Design – architektura systemów, automatyzacja procesów, wykorzystywanie AI <br>
+
+Na co dzień używam DAX, M, SQL, VBA oraz narzędzi AI (Copilot, ChatGPT)
+
+Kończąc studia na SGH w kierunku zarządzanie cyberbezpieczeństwem broniłem prace dyplomową w temacie „Ewolucja automatycznego generowania kodu i jej wpływ na bezpieczeństwo”, co w konktekście wykonywanej przezemnie pracy podkreśla moje zainteresowanie innowacjami i cyberbezpieczeństwem przy wsparciu AI
+
+**Core Competencies** <br>
+**CRM & Automation:** Local CRM, Salesforce, Dynamics 365, Power Automate, Sharepoint <br>
+**BI & Data:** Power BI, DAX, Power Query (M), ETL orchestration<br>
+**Solution Design:** projektowanie i rozwój aplikacji biznesowych, automatyzacja procesów, integracje oparte na zdarzeniach (event-driven), wysoka jakość danych (data lineage) oraz zasady security-by-design.
+
+# **1) Zarządzanie i rozwój systemu CRM**
+   - Projektuję i rozwijam systemy CRM (Local CRM, Dynamics 365) z naciskiem na architekturę danych, automatyzację procesów oraz bezpieczeństwo. Odpowiadam za pełen cykl życia zmian — od analizy, przez implementację, testy, migracje danych, aż po rollout i monitoring.
+   - Integracje local CRM z ERP, centralny hub danych.
    - Rozszerzona analityka biznesowa – dostosowanie CRM do potrzeb raportowania i analizy danych w perspektywie strategicznej.
 
 
@@ -16,18 +29,17 @@ Za każdą liczbą stoją fakty – zarządzając strategicznymi bazami danych, 
 ![MicrosoftAzure](https://img.shields.io/badge/MICROSOFT%20AZURE-%20%230078D4?style=for-the-badge)
 
 # **2) Business Intelligence Development- BI Developer**
-   - Budowa procesów ETL – integracja danych z wielu źródeł (Local CRM, Salesforce, SharePoint, bazy dedykowane).
-   - Modelowanie danych i tworzenie miar w języku DAX.
-   - Projektowanie dashboardów w Power BI – interaktywne raporty wspierające decyzje biznesowe.
-   - Łączenie danych z różnych systemów w celu uzyskania pełnego obrazu działalności.
+   - Budowa procesów ETL – integracja danych z wielu źródeł (Local CRM, Salesforce, SharePoint, nazy SQL).
+   - Budowa modelu semantycznego, tworzenie miar w języku DAX.
+   - Projektowanie dashboardów w Power BI
    
-W firmie uruchomiłem aplikacje z raportami PowerBI, przygotowując łacznie 7 raportów oraz niektóre mechanizmy oparte na synchrinizacji danych przez Bi. Poniżej kilka screenów.*
+Uruchomiłem aplikacje z raportami PowerBI, przygotowując łacznie 7 raportów oraz niektóre mechanizmy oparte na synchronizacji danych przez BI. Była to duża zmiana technologiczna raportowania danych w Polskim oddziale. Poniżej kilka screenów.*
  <p align="center">
   <img src="Targety.png" width="200">
   <img src="Województwa.png" width="185">
   <img src="Benchmark.png" width="200">
 </p> 
-<small>*Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego również powodu nie ma ciekawszych dashbordów. 
+<small>*Dane oraz wygląd został zmodyfikowany z uwagi na poufność danych, z tego również powodu nie ma ciekawszych dashboardów. 
 </small>
 
 ![ETL](https://img.shields.io/badge/ETL%20PROCESS-%20%23FFA500?style=for-the-badge&logo=changedetection&logoColor=FFFFFF)
@@ -35,12 +47,11 @@ W firmie uruchomiłem aplikacje z raportami PowerBI, przygotowując łacznie 7 r
 ![PowerQuery](https://img.shields.io/badge/POWER%20QUERY-217346?style=for-the-badge&logo=soundcharts&logoColor=FFFFFF)
 ![MLanguage](https://img.shields.io/badge/M%20LANGUAGE-185C37?style=for-the-badge&logoColor=FFFFFF)
 ![DaxLanguage](https://img.shields.io/badge/DAX%20LANGUAGE-%232E64FF?style=for-the-badge&logoColor=FFFFFF)
-     
-# **3) Project Delivery & Solution Design**
-   - Tworzenie nowych procesów i aplikacji wspierających innowacje i zwiększających konkurencyjność.
+
+# **3) Project Delivery & Solution Design**.
+   - Tworzenie narzędzi automatyzujących procesy biznesowe, wspierające innowacje i zwiększające konkrencyjność (Excel VBA, Power Automate).
    - Projektowanie rozwiązań odpowiadających na potrzeby rynku i strategię firmy.
    - Wdrażanie narzędzi usprawniających operacje i podnoszących efektywność biznesu.
-
 
 <p align="center">
 <a href="https://youtu.be/14O6Ok4gwEs">
@@ -48,15 +59,14 @@ W firmie uruchomiłem aplikacje z raportami PowerBI, przygotowując łacznie 7 r
 </a>
 </p>
 
-<small>Film zrealizowany przez firmę prezentujący jednego z rozwiązań. Link przenosi do poratu YouTube* <br>
-*Część danych została ukryta
+<small>Film zrealizowany przez firmę prezentujący jednego z rozwiązań. Link przenosi do poratlu YouTube* <br>
+*Część danych została ukryta ze względu na poufność.
 </small>
 
 ![Microsoft Excel](https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=onlyoffice&logoColor=%23FFFFFF)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=googlesheets&logoColor=%23FFFFFF)
 ![Mobile](https://img.shields.io/badge/MOBILE%20APP-%2325D366?style=for-the-badge&logoColor=FFFFFF)
 ![Solution](https://img.shields.io/badge/SYSTEM%20ARCHITECTURE-%20%23575757?style=for-the-badge&logoColor=FFFFFF)
-![MLanguage](https://img.shields.io/badge/M%20LANGUAGE-185C37?style=for-the-badge&logoColor=FFFFFF)
 
 <!--
 Tu masz opcje do wyświetlania w MD: 
