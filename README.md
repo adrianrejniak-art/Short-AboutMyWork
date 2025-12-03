@@ -1,20 +1,20 @@
-# Krótko o mojej pracy
+## Krótko o mojej pracy
 
 Łączę kompetencje analityczne, projektowe i technologiczne, tworząc end-to-end rozwiązania wspierające strategiczne decyzje biznesowe.
 
 **Specjalizuję się w:** <br>
-CRM (Salesforce, Dynamics) – bezpieczeństwo, automatyzacja procesów, integracje <br>
-Business Intelligence – modelowanie danych, ETL, raportowanie w Power BI” <br>
-Solution Design – architektura systemów, automatyzacja procesów, wykorzystywanie AI <br>
+> CRM (Salesforce, Dynamics) – bezpieczeństwo, automatyzacja procesów, integracje <br>
+> Business Intelligence – modelowanie danych, ETL, raportowanie w Power BI” <br>
+> Solution Design – architektura systemów, automatyzacja procesów, wykorzystywanie AI <br>
 
 Na co dzień używam DAX, M, SQL, VBA oraz narzędzi AI (Copilot, ChatGPT)
 
 Kończąc studia na SGH w kierunku zarządzanie cyberbezpieczeństwem broniłem prace dyplomową w temacie „Ewolucja automatycznego generowania kodu i jej wpływ na bezpieczeństwo”, co w konktekście wykonywanej przezemnie pracy podkreśla moje zainteresowanie innowacjami i cyberbezpieczeństwem przy wsparciu AI
 
 **Core Competencies** <br>
-**CRM & Automation:** Local CRM, Salesforce, Dynamics 365, Power Automate, Sharepoint <br>
-**BI & Data:** Power BI, DAX, Power Query (M), ETL orchestration<br>
-**Solution Design:** projektowanie i rozwój aplikacji biznesowych, automatyzacja procesów, integracje oparte na zdarzeniach (event-driven), wysoka jakość danych (data lineage) oraz zasady security-by-design.
+> **CRM & Automation:** Local CRM, Salesforce, Dynamics 365, Power Automate, Sharepoint <br>
+> **BI & Data:** Power BI, DAX, Power Query (M), ETL orchestration<br>
+> **Solution Design:** projektowanie i rozwój aplikacji biznesowych, automatyzacja procesów, integracje oparte na zdarzeniach (event-driven), wysoka jakość danych (data lineage) oraz zasady security-by-design.
 
 # **1) Zarządzanie i rozwój systemu CRM**
    - Projektuję i rozwijam systemy CRM (Local CRM, Dynamics 365) z naciskiem na architekturę danych, automatyzację procesów oraz bezpieczeństwo. Odpowiadam za pełen cykl życia zmian — od analizy, przez implementację, testy, migracje danych, aż po rollout i monitoring.
