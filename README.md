@@ -1,9 +1,10 @@
 ## **Kilka słów o mnie**
 
-Łączę kompetencje analityczne, projektowe i technologiczne, tworząc end-to-end rozwiązania, które realnie wspierają strategiczne decyzje biznesowe. Specjalizuję się w projektowaniu i rozwoju systemów CRM (Salesforce, Dynamics 365, ERP) z naciskiem na bezpieczeństwo, automatyzację procesów oraz integracje systemowe. 
+*Łączę kompetencje analityczne, projektowe i technologiczne, tworząc end-to-end rozwiązania, które realnie wspierają strategiczne decyzje biznesowe. Specjalizuję się w projektowaniu i rozwoju systemów CRM (Salesforce, Dynamics 365, ERP) z naciskiem na bezpieczeństwo, automatyzację procesów oraz integracje systemowe.
 Posiadam solidne doświadczenie w obszarze Business Intelligence — od modelowania danych i procesów ETL, przez budowę modeli semantycznych, po raportowanie i analitykę w Power BI. 
-Jako Solution Designer projektuję skalowalne architektury systemów, automatyzuję przepływy danych oraz wykorzystuję narzędzia AI do zwiększania efektywności i jakości rozwiązań. 
-Pracuję na styku danych, systemów i biznesu, prowadząc projekty od analizy wymagań po wdrożenie i optymalizację rozwiązań data-driven.
+Jako Solution Designer projektuję skalowalne architektury systemów, automatyzuję przepływy danych oraz wykorzystuję narzędzia AI do zwiększania efektywności i jakości rozwiązań.*
+
+*Pracuję na styku danych, systemów i biznesu, prowadząc projekty od analizy wymagań po wdrożenie i optymalizację rozwiązań data-driven.*
 
 Kończąc studia na SGH w kierunku zarządzanie cyberbezpieczeństwem broniłem prace dyplomową w temacie „Ewolucja automatycznego generowania kodu i jej wpływ na bezpieczeństwo”, co w konktekście wykonywanej przezemnie pracy podkreśla moje zainteresowanie innowacjami i cyberbezpieczeństwem przy wsparciu AI
 
